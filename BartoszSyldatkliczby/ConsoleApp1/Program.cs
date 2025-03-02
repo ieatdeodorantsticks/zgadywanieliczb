@@ -23,10 +23,6 @@ do{
             Diff = 501;
             Pozostale = 20;
             break;
-        case "4":
-            Diff = 2111111111;
-            Pozostale = 2;
-            break;
         default:
             Poziom = String.Empty;
             Console.Write("Wpisz poprawną liczbę: ");
