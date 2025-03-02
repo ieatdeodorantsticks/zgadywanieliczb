@@ -74,13 +74,8 @@ while (x != Liczba){
         Console.WriteLine("Brak prób");
         break;
         }
-        else{
-            if (Pozostale == 1) {
-                Console.WriteLine($"Pozostała {Pozostale} próba");
-            }
-            else{
+    else{
                 Console.WriteLine($"Pozostało {Pozostale} prób");
-            }
         }
     }
 }
